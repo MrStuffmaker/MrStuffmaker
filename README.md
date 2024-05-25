@@ -10,5 +10,5 @@
 ![](https://discord.c99.nl/widget/theme-1/213586333677912064.png)
 
 Some public stats:</br>
-[![Stuffmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrStuffmaker&show_icons=true&theme=merko)](https://stuffmaker.dev){:target="_blank"}
+[![Stuffmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrStuffmaker&show_icons=true&theme=merko)](https://stuffmaker.dev)
 </br>
