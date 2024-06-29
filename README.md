@@ -9,6 +9,8 @@
 📫 How to reach me: [Discord](https://discord.fish/pawpatrol)</br>
 ![](https://discord.c99.nl/widget/theme-2/213586333677912064.png)
 
-Some public stats:</br>
+Check out my newest Website:</br>
+[Email.equipment](https://email.equipment)<br>
+![Status](https://status.stuffmaker.eu/api/badge/40/status) ![Ping](https://status.stuffmaker.eu/api/badge/40/ping) <br><br>
 [![Stuffmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrStuffmaker&show_icons=true&theme=merko)](https://stuffmaker.dev)
 </br>
