@@ -10,7 +10,7 @@
 ![](https://discord.c99.nl/widget/theme-2/213586333677912064.png)
 
 Check out discord.fish:</br>
-[Website](https://discord.fsh)<br>
-![Status](https://status.stuffmaker.eu/api/badge/37/status) ![Ping](https://status.stuffmaker.eu/api/badge/37/ping) <br><br>
+[Website](https://discord.fish)<br>
+![Status](https://status.stuffmaker.eu/api/badge/15/status) ![Ping](https://status.stuffmaker.eu/api/badge/15/ping) <br><br>
 [![Stuffmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrStuffmaker&show_icons=true&theme=merko)](https://stuffmaker.dev)
 </br>
