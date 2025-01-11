@@ -14,3 +14,4 @@ Check out discord.fish:</br>
 ![Status](https://status.stuffmaker.wtf/api/badge/15/status) ![Ping](https://status.stuffmaker.wtf/api/badge/15/ping) <br><br>
 [![Stuffmaker's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrStuffmaker&show_icons=true&theme=merko)](https://stuffmaker.dev)
 </br>
+<img src="https://komarev.com/ghpvc/?username=MrStuffmaker&label=Profile%20views&color=00FFFF&style=flat" alt="AlexDev7518" />
